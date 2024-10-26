@@ -16,3 +16,5 @@ The project is organized into four stages:
   1. Create an Account: Generate a unique card number and PIN, storing this information temporarily.
   2. Log into an Account: Verify users by asking for their card number and PIN, then granting access to view their balance.
   3. Exit: Users can log out or exit the program.
+- **Stage 2**: Implement the Luhn Algorithm to check the validity of the generated card number.
+  1. Change the credit card generation algorithm so that card numbers pass the Luhn algorithm.
