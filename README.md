@@ -18,3 +18,6 @@ The project is organized into four stages:
   3. Exit: Users can log out or exit the program.
 - **Stage 2**: Implement the Luhn Algorithm to check the validity of the generated card number.
   1. Change the credit card generation algorithm so that card numbers pass the Luhn algorithm.
+- **Stage 3**: Create a database using SQLite and store all card information.
+  1. Create a database as soon as the program starts.
+  2. Store all generated card information in the database.
